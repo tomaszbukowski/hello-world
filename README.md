@@ -1,2 +1,3 @@
 # hello-world
-first repo to start with GitHub
+my name is Tomek. I'm a father, husband, motorcycle enthusiast, R/C pilot, engineer, music lover, spitfire, blabber.
+I like Java too ;-)
